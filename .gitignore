@@ -1,0 +1,18 @@
+# node / build
+node_modules/
+dist/
+.vite/
+*.log
+
+# env / editor
+.env
+.env.*
+.DS_Store
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+
+# If you don't want to store the logo in the repo, keep this line; otherwise remove it
+public/serenity-logo.png
