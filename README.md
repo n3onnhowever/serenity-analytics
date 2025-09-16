@@ -4,8 +4,6 @@
 ![license](https://img.shields.io/badge/license-MIT-blue) 
 ![built-with](https://img.shields.io/badge/built%20with-React%20%2B%20TypeScript-%236F42C1)
 
----
-
 ## ✨ Возможности
 
 - 📂 Загрузка трёх наборов данных: **Exxon** (Excel), **S&P 500** (Excel), **WTI** (CSV)  
