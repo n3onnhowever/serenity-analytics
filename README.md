@@ -45,17 +45,12 @@ http://localhost:5173
 ```
 serenity-analytics/
 │
-├── public/                  # Публичные ресурсы
-│   ├── serenity-logo.png    # Логотип в шапке
-│   └── favicon.ico
-│
 ├── src/                     # Исходники приложения
 │   ├── components/          # Компоненты интерфейса
 │   │   └── ui/              # Базовые UI-элементы (Card, Button и др.)
 │   ├── index.css            # Tailwind + стили
 │   ├── index.tsx            # Входная точка приложения
 │   └── vite-env.d.ts        # Типы Vite
-│
 │
 ├── .gitignore               # Игнорируемые файлы
 ├── package.json             # Зависимости и скрипты
