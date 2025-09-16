@@ -6,4 +6,4 @@ React (Vite + TypeScript) приложение для автоматизиров
 ```bash
 npm i
 npm run dev
-```11
+```1
