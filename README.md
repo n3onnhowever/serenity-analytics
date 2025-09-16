@@ -1,6 +1,8 @@
 # Serenity Analytics 🚀
 
-![version](https://img.shields.io/badge/version-1.0.0-purple) ![license](https://img.shields.io/badge/license-MIT-blue) ![built-with](https://img.shields.io/badge/built%20with-React%20%2B%20TypeScript-%236F42C1)
+![version](https://img.shields.io/badge/version-1.0.0-purple) 
+![license](https://img.shields.io/badge/license-MIT-blue) 
+![built-with](https://img.shields.io/badge/built%20with-React%20%2B%20TypeScript-%236F42C1)
 
 **Serenity Analytics** — стильное и удобное веб-приложение для анализа временных рядов и прогнозирования цен (ETS / Holt-Winters).  
 Интерфейс построен на **React + Vite + TypeScript**, визуализация — **Recharts**, анимации — **Framer Motion**.
@@ -21,9 +23,9 @@
 
 ## 🚀 Быстрый старт
 
-```
+```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/<твой_логин>/serenity-analytics.git
+git clone https://github.com/n3onnhowever/serenity-analytics.git
 cd serenity-analytics
 
 # 2. Установить зависимости
@@ -34,8 +36,13 @@ npm run dev
 
 # 4. Открыть в браузере
 http://localhost:5173
+```
+
+---
 
 ## 📂 Структура проекта
+
+```
 serenity-analytics/
 │
 ├── public/                  # Публичные ресурсы
@@ -43,17 +50,16 @@ serenity-analytics/
 │   └── favicon.ico
 │
 ├── src/                     # Исходники приложения
-│   ├── components/          # Компоненты UI
-│   │   └── ui/              # Базовые UI-элементы (Card, Button и т.д.)
+│   ├── components/          # Компоненты интерфейса
+│   │   └── ui/              # Базовые UI-элементы (Card, Button и др.)
 │   ├── index.css            # Tailwind + стили
 │   ├── index.tsx            # Входная точка приложения
 │   └── vite-env.d.ts        # Типы Vite
 │
-├── docs/                    # Скриншоты / гифки (если решишь добавить)
 │
 ├── .gitignore               # Игнорируемые файлы
 ├── package.json             # Зависимости и скрипты
 ├── tsconfig.json            # Конфигурация TypeScript
 ├── vite.config.ts           # Конфигурация Vite
-└── README.md                # Документация (этот файл)
-
+└── README.md                # Документация
+```
