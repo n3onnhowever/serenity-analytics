@@ -1,11 +1,8 @@
-# Serenity Analytics 🚀
+# Serenity Analytics
 
 ![version](https://img.shields.io/badge/version-1.0.0-purple) 
 ![license](https://img.shields.io/badge/license-MIT-blue) 
 ![built-with](https://img.shields.io/badge/built%20with-React%20%2B%20TypeScript-%236F42C1)
-
-**Serenity Analytics** — стильное и удобное веб-приложение для анализа временных рядов и прогнозирования цен (ETS / Holt-Winters).  
-Интерфейс построен на **React + Vite + TypeScript**, визуализация — **Recharts**, анимации — **Framer Motion**.
 
 ---
 
