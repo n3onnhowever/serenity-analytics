@@ -52,4 +52,3 @@ serenity-analytics/
 ├── vite.config.ts           # Конфигурация Vite
 └── README.md                # Документация
 ```
-123
