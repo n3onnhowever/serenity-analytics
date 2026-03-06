@@ -3,7 +3,7 @@
 ![version](https://img.shields.io/badge/version-0.1.0-purple) 
 ![built-with](https://img.shields.io/badge/built%20with-React%20%2B%20TypeScript-%236F42C1)
 
-## ✨ Возможност
+## ✨ Возможности
 
 - 📂 Загрузка трёх наборов данных: **Exxon** (Excel), **S&P 500** (Excel), **WTI** (CSV)  
 - 🔄 Автоматическая обработка: объединение по дате, корректировка форматов дат и чисел  
